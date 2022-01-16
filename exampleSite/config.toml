@@ -1,4 +1,4 @@
-baseURL = "http://tobi-datadetective.netlify.com"
+baseURL = "http://tobi-datadetective.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
